@@ -1,3 +1,30 @@
 body {
-	background-color: #FDFDF8
+	background-color: #6B8FB2;
+	margin-left: 20%;
+	margin-right: 20%;
+	font-family: Copperplate, "Copperplate Gothic Light", fantasy;
 }
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 10px;
+	border-width: 0; /* Remove image border in IE */
+	max-width: 100%;
+    height: auto;
+}
+
+h1 {
+	text-align: center;
+}
+
+div#content {
+	background-color: #FFFDF9;
+	padding-left: 25px;
+	padding-right: 25px;
+	border:1px solid;
+	border-radius: 15px;
+	min-width: 500px;
+}
+
