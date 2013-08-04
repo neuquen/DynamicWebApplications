@@ -2,6 +2,8 @@ body {
 	background-color: #6B8FB2;
 	margin-left: 20%;
 	margin-right: 20%;
+	margin-top: 20px;
+	margin-bottom: 20px;
 	font-family: Copperplate, "Copperplate Gothic Light", fantasy;
 }
 
@@ -19,6 +21,10 @@ h1 {
 	text-align: center;
 }
 
+hr {
+	border-color: black;
+}
+
 div#content {
 	background-color: #FFFDF9;
 	padding-left: 25px;
@@ -26,5 +32,12 @@ div#content {
 	border:1px solid;
 	border-radius: 15px;
 	min-width: 500px;
+	
+
+	
+	/*Box shadow to make div look like it is popping off screen*/
+	-webkit-box-shadow: 0px 0px 30px rgba(0,0,0,0.75);
+	-moz-box-shadow:    0px 0px 30px rgba(0,0,0,0.75);
+	box-shadow:         0px 0px 30px rgba(0,0,0,0.75);
 }
 
