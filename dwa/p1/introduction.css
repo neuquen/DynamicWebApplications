@@ -33,8 +33,6 @@ div#content {
 	border-radius: 15px;
 	min-width: 500px;
 	
-
-	
 	/*Box shadow to make div look like it is popping off screen*/
 	-webkit-box-shadow: 0px 0px 30px rgba(0,0,0,0.75);
 	-moz-box-shadow:    0px 0px 30px rgba(0,0,0,0.75);
