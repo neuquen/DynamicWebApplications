@@ -1,4 +1,4 @@
-DynamicWebApplications
+p1.kevendickey.com
 ======================
 
-Homework for my class at HES
+Project 1 for Dynamic Web Applications
